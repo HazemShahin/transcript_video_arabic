@@ -173,3 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 description.txt
+.qodo
+
+.artr_venv
+/artr_venv/*
